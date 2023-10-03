@@ -3,7 +3,9 @@
 
 ## Installation
 - Öncelikle projeyi clonelayın.
-``` git clone https://github.com/inammelih/kodluyoruzilkrepo.git ```
+``` 
+git clone https://github.com/inammelih/kodluyoruzilkrepo.git 
+```
 
 ### Usage
 - Projeyi cloneladıktan sonra Visual Studio Code programını açınız
