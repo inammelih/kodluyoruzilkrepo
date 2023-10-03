@@ -1,22 +1,22 @@
-# KODLUYORUZ İLK REPO
-- Bu repo [kodluyoruz](https://kodluyoruz.org) Front end eğitiminde oluşturduğum ilk repo, içerisinde bir adet README.md dosyası ve index.html barındırıyor.
+# KODLUYORUZ FIRST REPO
+- BI created my first repository in the front-end training at  [kodluyoruz](https://kodluyoruz.org) The repository contains one README.md file and one index.html file."
 
 ## Installation
-- Öncelikle projeyi clonelayın.
+- First, clone the project
 ``` 
 git clone https://github.com/inammelih/kodluyoruzilkrepo.git 
 ```
 
 ### Usage
-- Projeyi cloneladıktan sonra Visual Studio Code programını açınız
-- Linux için;
+- After cloning the project, open Visual Studio Code program.
+- For Linux;
 ```
-cd kodluyoruz ilk repo 
+cd kodluyoruz first repo 
 code . 
 ```
 
 ### Contributing
-- Pull requestler kabul edilir. Büyük değişiklikler için önce neyi değiştirmek istediğiniz hakkında konu açınız.
+- Pull requests are accepted. For major changes, please open an issue first to discuss what you would like to change.
 
 ### License
 [MIT](https://www.mit.edu)
