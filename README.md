@@ -1,5 +1,5 @@
 # KODLUYORUZ FIRST REPO
-- I created my first repository in the front-end training at  [kodluyoruz](https://kodluyoruz.org) The repository contains one README.md file and one index.html file."
+- I created my first repository in the front-end training at  [kodluyoruz](https://kodluyoruz.org). The repository contains one README.md file and one index.html file.
 
 ## Installation
 - First, clone the project
